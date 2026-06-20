@@ -44,15 +44,7 @@ Pandas
 Matplotlib / Seaborn
 Jupyter Notebook
 
-📌 Future Improvements
-Apply correlation analysis for stronger validation
-Build predictive model (performance prediction)
-Include regression analysis for sleep mediation effect
-Expand dataset for higher accuracy
-🚀 How to Run
-git clone https://github.com/your-username/sleep-gaming-performance-analysis.git
-cd sleep-gaming-performance-analysis
-jupyter notebook
+
 
 👤 Author
 
